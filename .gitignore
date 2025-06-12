@@ -1,0 +1,17 @@
+# Ignora archivos generados por compilación
+*.o
+*.obj
+*.exe
+*.bin
+*.dll
+*.gch
+
+# Ignora backups de Dev-C++
+*~
+*.layout
+
+# Ignora archivos temporales del sistema
+Thumbs.db
+.DS_Store
+
+*.docx
